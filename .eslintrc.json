@@ -30,6 +30,7 @@
     ],
 
     "rules": {
+      "no-param-reassign":"off",
       "prettier/prettier": "error",
       "react/jsx-one-expression-per-line" :"off",
       "react-hooks/rules-of-hooks": "error",
